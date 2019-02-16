@@ -68,5 +68,6 @@ public class MainActivity extends Activity {
         buttonsub.setOnClickListener(cl);
         buttonresult.setOnClickListener(cl);
         buttonclear.setOnClickListener(cl);
+
     }
 }
